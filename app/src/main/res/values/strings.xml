@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyLauncher</string>
+
+    <string name="name">App Name: </string>
+    <string name="package_name">Package Name: </string>
+    <string name="version_code">Version Code: </string>
+    <string name="version_name">Version Name: </string>
+    <string name="activity_name">Activity Name: </string>
+    <string name="search_by_name">Search by app name</string>
+</resources>

@@ -1,0 +1,3 @@
+include ':LauncherSDK'
+include ':app'
+rootProject.name = "MyLauncher"
